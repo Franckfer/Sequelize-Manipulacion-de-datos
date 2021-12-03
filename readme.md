@@ -1,6 +1,6 @@
-# Sequelize - Manipulacion de datos
+# Sequelize - Manipulación de datos
 
-<h3>Ejercitación de DIGITAL HOUSE donde trabajamos con el ORM de Sequelize para poder trabajar con la base de datos de movies.</h3>
+<h3>Continuando la Ejercitación anterior trabajamos con el ORM de Sequelize para practicar el resto de las operaciones como: manipulación de datos y creación de un crud.</h3>
 
 <h2>Imagenes previas del desafio<h2>
 
